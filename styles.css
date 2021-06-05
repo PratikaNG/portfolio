@@ -1,6 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 
+
 body{
     font-family: 'Playfair Display', serif;
+}
+.container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: #6366F1
+}
+.container-center{
+    max-width : 600px;
+    margin:auto;
 }
