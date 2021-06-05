@@ -8,6 +8,7 @@
 
 body{
     font-family: 'Playfair Display', serif;
+    margin: 0px;
 }
 
 hr{
@@ -79,6 +80,7 @@ hr{
     margin: auto;
 }
 .hero .hero-heading {
+    text-align: center;
     color:var(--dark-gray);
     padding-top : 1rem;
 }
@@ -95,3 +97,17 @@ hr{
     background-color: var(--offwhite);
 }
 /**Footer**/
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color:white;
+    border-top-left-radius: 1rem;
+}
+.footer .link {
+    color: white;
+    text-decoration: none;
+}
+.footer .ul{
+    padding-inline-start: 0px;
+}
