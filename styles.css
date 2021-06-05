@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-
+:root {
+    --primary-color :#4F46E5;
+}
 
 body{
     font-family: 'Playfair Display', serif;
@@ -14,3 +16,21 @@ body{
     max-width : 600px;
     margin:auto;
 }
+/** links **/
+.links{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+.link-primary{
+    background-color: var(--primary-color);
+    text-decoration: none;
+    border-radius: 0rem 0rem;
+    color:white;
+}
+.link-secondary{
+    text-decoration: none;
+    border-radius : 0.5rem;
+    border: 1px  var(--primary-color);
+    color:var(--primary-color);   
+}
+
