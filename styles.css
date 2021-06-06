@@ -9,6 +9,7 @@
 body{
     font-family: 'Playfair Display', serif;
     margin: 0px;
+    background-image: linear-gradient(to right, #6587d6, #4c9ee3, #40b3e8, #4cc6e8, #6ad8e6, #65dcdd, #67dfd2, #70e1c5, #55d6aa, #42cb8b, #38be68, #37b142);    
 }
 
 hr{
@@ -52,7 +53,7 @@ hr{
 
 /** navigation**/
 .navigation{
-    background-color: var(--primary-color);
+    background-color: #133262;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
@@ -103,6 +104,10 @@ hr{
     text-align: center;
     color:white;
     border-top-left-radius: 1rem;
+}
+.footer .footer-header{
+    font-size: large;
+    font-weight: bold;
 }
 .footer .link {
     color: white;
