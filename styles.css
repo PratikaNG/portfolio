@@ -12,7 +12,7 @@ body{
     font-family: 'Libre Baskerville', serif;
     margin: 0px;
     /* background-image:  linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
-    background-image: linear-gradient(to right top, #ae3398, #f0356e, #ff6e33, #edb000, #a8eb12);
+    background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 }
 
 hr{
