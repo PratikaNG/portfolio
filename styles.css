@@ -61,7 +61,7 @@ text-decoration: none;
 .link-secondary{
     text-decoration: none;
     border-radius : 0.5rem;
-    color:greenyellow;   
+    color:#78D706;   
 }
  /**Lists**/
  .list-non-bullet{
@@ -94,6 +94,7 @@ text-decoration: none;
     font-weight: bold;
     font-size: 1rem;
     margin-top: 1rem;
+    color :#8ED90E;
 }
 .navigation .link-active{
     font-weight: bold;
