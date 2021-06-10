@@ -63,6 +63,12 @@ text-decoration: none;
     border-radius : 0.5rem;
     color:#78D706;   
 }
+
+.container .container-center .margin-md .link-secondary{
+    color:#78D706;  
+}
+
+
  /**Lists**/
  .list-non-bullet{
      list-style: circle;
